@@ -191,6 +191,8 @@ Aplicando toda la experiencia en arquitectura, seguridad y escalabilidad a la nu
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/OAuth-3C1FFF?style=for-the-badge&logo=auth0&logoColor=white"/>
   <img src="https://img.shields.io/badge/Encryption-2C3E50?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clipper-5C2D91?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Harbour-5C2D91?style=for-the-badge&logoColor=white"/>
 </p>
 
 ### ▸ Cloud & DevOps
@@ -238,8 +240,6 @@ Aplicando toda la experiencia en arquitectura, seguridad y escalabilidad a la nu
   <img src="https://img.shields.io/badge/EasyEDA-1B72BE?style=for-the-badge&logo=easyeda&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matlab-ED7D31?style=for-the-badge&logo=mathworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clipper-5C2D91?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Harbour-5C2D91?style=for-the-badge&logoColor=white"/>
 </p>
 
 ### ▸ Herramientas & Diseño
@@ -263,7 +263,6 @@ Aplicando toda la experiencia en arquitectura, seguridad y escalabilidad a la nu
   <a href="https://www.linkedin.com/in/devklmnt/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:hola@alunasoftware.com"><img src="https://img.shields.io/badge/Aluna-0A0A0A?style=for-the-badge&logo=microsoftoutlook&logoColor=36BCF7" alt="Email Aluna"/></a>
   <a href="mailto:dev.klmnt@gmail.com"><img src="https://img.shields.io/badge/Personal-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Personal"/></a>
-  <a href="https://stackoverflow.com/users/16436290"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
 </p>
 
 ---
