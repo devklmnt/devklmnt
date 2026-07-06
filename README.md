@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://alunasoftware.com"><img src="https://alunasoftware.com/assets/logo-PMVzvF1W.png" height="28" alt="Aluna Software"/></a>
+  <a href="https://alunasoftware.com"><img src="https://alunasoftware.com/assets/logo-PMVzvF1W.png" height="28" alt="Aluna Software"/> Aluna Software </a>
   <img src="https://komarev.com/ghpvc/?username=devklmnt&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 </p>
 
