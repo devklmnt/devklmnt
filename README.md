@@ -2,7 +2,7 @@
 
 # Sebastián Higuera Mesa 
 
-**Ingeniero Electrónico · Tech Lead @ Aluna Software**
+**Ingeniero Electrónico · CEO & Tech Lead @ Aluna Software**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Electronic+Engineer+%C2%B7+Tech+Lead+%40+Aluna+Software;API+Integration+%26+Cloud+Architecture+Specialist;Building+AI-powered+applications+for+LATAM;De+integraciones+SOA+a+soluciones+con+Inteligencia+Artificial)](https://git.io/typing-svg)
 
@@ -104,7 +104,7 @@ VHDL · Clipper · Harbour
 
 | Empresa | Rol | Periodo |
 |---|---|---|
-| **Aluna Software** | CEO | Actualidad |
+| **Aluna Software** | CEO & Tech Lead | Actualidad |
 | **Experian – Datacrédito** | Líder Técnico de Desarrollo *(anteriormente Dev/Admin DataPower, jul 2022 – ene 2024)* | ene 2024 – actualidad |
 | **AOS Colombia / Scotiabank-Colpatria** | Analista SOA / Desarrollador SOA | ago 2019 – jul 2022 |
 | **Freelance / Bancolombia** | Desarrollador de Integración | abr 2021 – abr 2022 |
